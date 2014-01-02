@@ -30,58 +30,17 @@ The pKa values summarized in pKa data collected from the literature spreadsheet 
 | | | 1B2X | X-ray | 3 | | | Surface Zn |
 | | | 1BNR | NMR | 20 | | |
 | | | 1FW7 | NMR | 20 | | |
-Pancreatic trypsin inhibitor precursor (BPTI) 	
+| Pancreatic trypsin inhibitor precursor (BPTI) | [11, 12] | 1BPI | X-ray | 1 | | Surface PO4 |
+| | | 1JV8 | NMR | 23 | | |
+| | | 4PTI | X-ray | 1 | | |
+| Calbindin D9k | [13] | 1KQV | NMR | 30 | | LA(III) not affecting benchmarked residues |
+| | | 1KSM | NMR | 1 | | LA(III) |
+| | | 1IG5 | X-ray | 1 | | Mg |
+| | | 4ICB | X-ray | 1 | | Ca |
+| Cardiotoxin A5 | [14] | 1KXI | X-ray | 2 | | |
+| CD2d1 | [15] | 1HNG | X-ray | 2 | | |
+| Chymotrypsin | [16] | 2TGA | X-ray | | | Ca |
 
-[11, 12]
-	1BPI 	X-ray 	
-
-1
-		Surface PO4
-		1JV8 	NMR 	
-
-23
-		
-		4PTI 	X-ray 	
-
-1
-		
-Calbindin D9k 	
-
-[13]
-	1KQV 	NMR 	
-
-30
-		LA(III) not affecting benchmarked residues
-		1KSM 	NMR 	
-
-1
-		LA(III)
-		1IG5 	X-ray 	
-
-1
-		Mg
-		4ICB 	X-ray 	
-
-1
-		Ca
-Cardiotoxin A5 	
-
-[14]
-	1KXI 	X-ray 	
-
-2
-		
-CD2d1 	
-
-[15]
-	1HNG 	X-ray 	
-
-2
-		
-Chymotrypsin 	
-
-[16]
-	2TGA 	X-ray 			Ca
 Chymotrypsin Inhibitor 2 	
 
 [17]
