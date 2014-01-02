@@ -40,64 +40,19 @@ The pKa values summarized in pKa data collected from the literature spreadsheet 
 | Cardiotoxin A5 | [14] | 1KXI | X-ray | 2 | | |
 | CD2d1 | [15] | 1HNG | X-ray | 2 | | |
 | Chymotrypsin | [16] | 2TGA | X-ray | | | Ca |
+| Chymotrypsin Inhibitor 2 | [17] | 2CI2 | X-ray | 1 | | |
+| | | 2SNI | X-ray | 1 | | Ca, only chain I is used |
+| | | 3CI2 | NMR | 20 | | |
+| Cyclophilin | [18] | 2CPL | X-ray | | | |
+| | | 1OCA | NMR | 20 | | |
+| Epidermal growth factor | [19] | 1EGF | NMR | 16 | | |
+| | | 1EPG | NMR | 1 | | |
+| | | 1EPH | NMR | 10 | | |
+| | | 1EPI | NMR | 1 | | |
+| | | 1EPJ | NMR | 5 | | |
+| FKBP | [18] | 1FKS | NMR | | | | |
+| fungal beta cryptogein | [20] | 1BEG | NMR | 18 | | |
 
-Chymotrypsin Inhibitor 2 	
-
-[17]
-	2CI2 	X-ray 	
-
-1
-		
-		2SNI 	X-ray 	
-
-1
-		Ca, only chain I is used
-		3CI2 	NMR 	
-
-20
-		
-Cyclophilin 	
-
-[18]
-	2CPL 	X-ray 			
-		1OCA 	NMR 	
-
-20
-		
-Epidermal growth factor 	
-
-[19]
-	1EGF 	NMR 	
-
-16
-		
-		1EPG 	NMR 	
-
-1
-		
-		1EPH 	NMR 	
-
-10
-		
-		1EPI 	NMR 	
-
-1
-		
-		1EPJ 	NMR 	
-
-5
-		
-FKBP 	
-
-[18]
-	1FKS 	NMR 			
-fungal beta cryptogein 	
-
-[20]
-	1BEG 	NMR 	
-
-18
-		
 		1BEO 	X-ray 	
 
 1
