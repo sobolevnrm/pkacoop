@@ -22,45 +22,14 @@ The pKa values summarized in pKa data collected from the literature spreadsheet 
 | Apo E4 | [3] | 1GS9 | X-ray | 1 | | |
 | B1 Domain of protein G | [5] | 1GB1 | NMR | 60 | | |
 | | | 1PGA | X-ray | 1 | | |
-		
-		1PGB 	X-ray 	
-
-1
-		
-B2 Domain of protein G 	
-
-[5]
-	2IGH 	NMR 	
-
-24
-		
-		1IGD 	X-ray 	
-
-1
-		
-		2IGD 	X-ray 	
-
-1
-		
-Barnase 	
-
-[6-10]
-	1A2P 	X-ray 	
-
-3
-		Surface Zn
-		1B2X 	X-ray 	
-
-3
-		Surface Zn
-		1BNR 	NMR 	
-
-20
-		
-		1FW7 	NMR 	
-
-20
-		
+| | | 1PGB | X-ray | 1 | | |
+| B2 Domain of protein G | [5] | 2IGH | NMR | 24 | | |
+| | | 1IGD | X-ray | 1 | | |
+| | | 2IGD | X-ray | 1 | | |
+| Barnase | [6-10] | 1A2P | X-ray | 3 | | Surface Zn |
+| | | 1B2X | X-ray | 3 | | | Surface Zn |
+| | | 1BNR | NMR | 20 | | |
+| | | 1FW7 | NMR | 20 | | |
 Pancreatic trypsin inhibitor precursor (BPTI) 	
 
 [11, 12]
