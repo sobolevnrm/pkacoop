@@ -1,0 +1,5 @@
+"Source Name"	"Characteristics[organism]"	"Term Source REF"	"Term Accession Number"	"Protocol REF"	"Sample Name"
+"N/A"	"apolipoprotein E2"	""	""	"sample collection"	"ApoE2"
+"N/A"	"Cysteamin-apolipoprotein E2"	""	""	"sample collection"	"Cysteamine-ApoE2"
+"N/A"	"apolipoprotein E3"	""	""	"sample collection"	"ApoE3"
+"N/A"	"apolipoprotein E4"	""	""	"sample collection"	"ApoE4"
