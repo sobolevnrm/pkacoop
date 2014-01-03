@@ -1,0 +1,7 @@
+"Source Name"	"Comment[Source]"	"Characteristics[Organism]"	"Term Source REF"	"Term Accession Number"	"Protocol REF"	"Sample Name"	"Comment[Primary]"
+"n/a"	"PDB-ID"	"alpha-sarcin"	""	""	"NMR Spectroscopy-1"	"E96Q"	""
+"n/a"	"PDB-ID"	"alpha-sarcin"	""	""	"NMR Spectroscopy-2"	"H50Q"	""
+"n/a"	"PDB-ID"	"alpha-sarcin"	""	""	"Continuum Electrostatics"	"a-sarcin"	""
+"n/a"	"PDB-ID"	"alpha-sarcin"	""	""	"NMR Spectroscopy"	"a-sarcin"	""
+"n/a"	"PDB-ID"	"alpha-sarcin"	""	""	"NMR Spectroscopy-3"	"H137Q"	""
+"n/a"	"PDB-ID"	"alpha-sarcin"	""	""	"NMR Spectroscopy-4"	"H50/137Q"	""

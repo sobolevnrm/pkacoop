@@ -1,0 +1,2 @@
+"Sample Name"	"Protocol REF"	"Assay Name"	"Extract Name"	"Protocol REF"	"Parameter Value[pKa]"	"Unit"	"Term Source REF"	"Term Accession Number"	"Parameter Value[Derived Experimental Results]"	"Unit"	"Term Source REF"	"Term Accession Number"	"Parameter Value[Derived Experimental Results 2]"	"Unit"	"Term Source REF"	"Term Accession Number"	"Raw Data File"
+"T62K"	"titration"	""	"Lys62"	"CD Spectroscopy"	"8.1"	"pKa"	""	""	"90.9"	"Angstroms^3"	""	""	""	""	""	""	""

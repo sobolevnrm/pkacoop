@@ -1,0 +1,2 @@
+"Sample Name"	"Protocol REF"	"Assay Name"	"Extract Name"	"Protocol REF"	"Parameter Value[pKa]"	"Unit"	"Term Source REF"	"Term Accession Number"	"Parameter Value[Derived Experimental Results]"	"Unit"	"Term Source REF"	"Term Accession Number"	"Parameter Value[Derived Experimental Results 2]"	"Unit"	"Term Source REF"	"Term Accession Number"	"Raw Data File"
+"V66E"	"titration"	""	"Glu66"	"CD Spectroscopy"	"8.5"	"pKa"	""	""	"176.3"	"Angstroms^3"	""	""	""	""	""	""	""

@@ -1,0 +1,4 @@
+"Source Name"	"Characteristics[organism]"	"Term Source REF"	"Term Accession Number"	"Protocol REF"	"Sample Name"
+"N/A"	"subunit c ATP synthase Escherichia coli Wild Type A24D61"	""	""	"sample collection"	"Wild Type"
+"N/A"	"subunit c ATP synthase Escherichia coli strain D24D61"	""	""	"sample collection"	"D24D61"
+"N/A"	"subunit c ATP synthase Escherichia coli strain D24N61"	""	""	"sample collection"	"D24N61"

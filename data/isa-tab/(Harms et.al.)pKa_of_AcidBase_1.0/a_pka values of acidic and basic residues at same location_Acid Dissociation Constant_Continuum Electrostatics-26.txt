@@ -1,0 +1,2 @@
+"Sample Name"	"Extract Name"	"Assay Name"	"Protocol REF"	"Parameter Value[pKa]"	"Parameter Value[dielectric constant]"	"Parameter Value[free energy: dehydration]"	"Unit"	"Term Source REF"	"Term Accession Number"	"Parameter Value[free energy: polar]"	"Unit"	"Term Source REF"	"Term Accession Number"	"Parameter Value[free energy: coulomb]"	"Unit"	"Term Source REF"	"Term Accession Number"	"Raw Data File"
+"PHS/L38E/R126Q"	"Glu38"	"PROPKA"	"Poisson-Boltzmann Continuum Electrostatic Equations"	"5.2"	"n/a"	"n/a"	"kcal/mol"	""	""	"n/a"	"kcal/mol"	""	""	"n/a"	"kcal/mol"	""	""	""

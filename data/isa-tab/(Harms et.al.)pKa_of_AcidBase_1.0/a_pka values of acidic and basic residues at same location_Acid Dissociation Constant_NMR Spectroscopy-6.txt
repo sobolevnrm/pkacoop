@@ -1,0 +1,5 @@
+"Sample Name"	"Protocol REF"	"Assay Name"	"Extract Name"	"Protocol REF"	"Parameter Value[Experimental Results: pKa]"	"Parameter Value[Derived Experimental Results]"	"Unit"	"Term Source REF"	"Term Accession Number"	"Parameter Value[Derived Experimental Results 2]"	"Unit"	"Term Source REF"	"Term Accession Number"	"Parameter Value[Derived Experimental Results 3]"	"Unit"	"Term Source REF"	"Term Accession Number"	"Protocol REF"
+"PHS/L38D/E122Q"	"titration"	"NMR"	"Asp38"	"NMR spectroscopy"	"6.6"	"-0.6"	"&Delta;pKa"	""	""	"1.0"	"Hill coefficient"	"SBO"	"0000190"	""	""	""	""	"Protein titration curve plotting"
+"PHS/L38D/E122Q"	"titration"	"LA"	"Asp38"	"Linkage Analysis"	"6.9"	"n/a"	"&Delta;pKa"	""	""	"n/a"	"Hill coefficient"	"SBO"	"0000190"	""	""	""	""	""
+"PHS/L38D/E122Q"	"titration"	"NMR"	"His8"	"NMR spectroscopy"	"6.5"	"n/a"	"&Delta;pKa"	""	""	"1.1"	"Hill coefficient"	"SBO"	"0000190"	""	""	""	""	""
+"PHS/L38D/E122Q"	"titration"	"NMR"	"His121"	"NMR spectroscopy"	"5.8"	"n/a"	"&Delta;pKa"	""	""	"0.9"	"Hill coefficient"	"SBO"	"0000190"	""	""	""	""	""

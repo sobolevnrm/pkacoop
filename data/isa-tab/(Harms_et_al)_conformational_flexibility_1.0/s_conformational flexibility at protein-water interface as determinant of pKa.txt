@@ -1,0 +1,4 @@
+"Source Name"	"Comment[Source]"	"Characteristics[organism]"	"Term Source REF"	"Term Accession Number"	"Protocol REF"	"Comment[Primary]"	"Sample Name"
+"2RKS"	"PDB-ID"	"PHS/L38K Staphylococcal Nuclease (crystalized)"	""	""	"Electrostatics calculation: standard finite-difference Poisson-Boltzman"	"All equilibirum thermodynamic and spectroscopy experiments were performed with &Delta;+PHS/L38K variant: hyperstable form with additional G50F, V51N substitutions and 44-49 deletion."	"PHS/L38K"
+"n/a"	"n/a"	"PHS L38K/E122Q Staphylococcal Nuclease"	""	""	"Electrostatics calculation: standard finite-difference Poisson-Boltzman"	"derived from cyrstalized PHS/L38K"	"L38K/E122Q"
+"n/a"	"n/a"	"PHS L38K/E122A Staphylococcal Nuclease"	""	""	"Electrostatics calculation: standard finite-difference Poisson-Boltzman"	"derived from cyrstalized PHS/L38K"	"L38k/E122A"
