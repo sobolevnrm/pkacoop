@@ -1,7 +1,0 @@
-"Source Name"	"Characteristics[organism]"	"Term Source REF"	"Term Accession Number"	"Protocol REF"	"Sample Name"	"Comment[Primary]"
-"No PDB ID"	"Wild Type Staphylococcal Nuclease"	""	""	"pKa Measurement"	"Wild Type"	"Errors are standard deviations from three separate experiments.  All other errors in NMR-measured pKa values are errors of the fit"
-"No PDB ID"	"PHS Staphylococcal Nuclease"	""	""	"pKa Measurement"	"PHS"	""
-"n/a"	"&Delta;+PHS Staphylococcal Nuclease"	""	""	"pKa Measurement"	"&Delta;+PHS "	""
-"n/a"	"PHS/V66K Staphylococcal Nuclease"	""	""	"pKa Measurement"	"PHS/V66K"	""
-"n/a"	"&Delta;+PHS/V66K Staphylococcal Nuclease"	""	""	"pKa Measurement"	"&Delta;+PHS/V66K"	""
-"n/a"	"PHS/V66E Staphylococcal Nuclease"	""	""	"pKa Measurement"	"PHS/V66E"	""
