@@ -1,0 +1,3 @@
+"Source Name"	"Characteristics[organism]"	"Term Source REF"	"Term Accession Number"	"Protocol REF"	"Sample Name"
+""	"wild type &beta;-lactoglobulin"	""	""	"sample collection"	"Wild Type"
+""	"A34C &beta;-lactoglobulin"	""	""	"sample collection"	"A34C"
