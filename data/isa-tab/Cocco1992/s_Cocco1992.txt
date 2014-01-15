@@ -1,0 +1,5 @@
+"Source Name"	"Characteristics[organism]"	"Term Source REF"	"Term Accession Number"	"Protocol REF"	"Sample Name"
+"N/A"	"equine apomyoglobin"	""	""	"sample collection"	"E-apo"
+"N/A"	"equine metaquomyoglobin"	""	""	"sample collection"	"E-meta"
+"N/A"	"sperm whale metaquomyoglobin"	""	""	"sample collection"	"SW-meta"
+"N/A"	"sperm whale apomyoglobin"	""	""	"sample collection"	"SW-apo"
