@@ -1,0 +1,4 @@
+"Source Name"	"Characteristics[organism]"	"Term Source REF"	"Term Accession Number"	"Protocol REF"	"Sample Name"
+"N/A"	"Naja naja atra cardiotoxin V wild type"	""	""	"sample collection"	"Cardiotoxin wild type"
+"N/A"	"Naja naja atra cardiotoxin V H_N"	""	""	"sample collection"	"Cardiotoxin H_N"
+"N/A"	"Naja naja atra cardiotoxin V H_&alpha;"	""	""	"sample collection"	"Cardiotoxin H&aplha;"

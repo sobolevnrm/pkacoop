@@ -1,0 +1,3 @@
+"Source Name"	"Characteristics[organism]"	"Term Source REF"	"Term Accession Number"	"Protocol REF"	"Sample Name"
+"N/A"	"barley chymotrypsin inhibitor 2 50 mM"	""	""	""	"CI2_50mM"
+"N/A"	"barley chymotrypsin inhibitor 2 200mM"	""	""	""	"CI2_200mM"
