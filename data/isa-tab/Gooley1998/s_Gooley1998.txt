@@ -1,0 +1,4 @@
+"Source Name"	"Characteristics[organism]"	"Term Source REF"	"Term Accession Number"	"Protocol REF"	"Sample Name"
+"N/A"	"Cryptogein"	""	""	""	"Cryp"
+"N/A"	"DYANA Cryptogein"	""	""	""	"DYANA"
+"N/A"	"OPAL Cryptogein"	""	""	""	"OPAL"
