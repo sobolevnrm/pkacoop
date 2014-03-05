@@ -1,0 +1,4 @@
+"Source Name"	"Characteristics[organism]"	"Term Source REF"	"Term Accession Number"	"Protocol REF"	"Sample Name"
+"N/A"	"Human fibronectin (FNfn10) wild type"	""	""	"sample collection"	"FNfn10 wild type"
+"N/A"	"Human fibronectin (FNfn10) D7N"	""	""	"sample collection"	"FNfn10 D7N"
+"N/A"	"Human fibronectin (FNfn10) D7K"	""	""	"sample collection"	"FNfn10 D7K"
