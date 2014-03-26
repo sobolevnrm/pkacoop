@@ -1,0 +1,2 @@
+"Source Name"	"Characteristics[organism]"	"Term Source REF"	"Term Accession Number"	"Protocol REF"	"Sample Name"
+""	"KNI-272 HIV-1 protease inhibitor"	""	""	"sample collection"	"KNI-272"

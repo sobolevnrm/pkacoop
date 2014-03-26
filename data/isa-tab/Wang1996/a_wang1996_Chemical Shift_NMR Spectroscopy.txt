@@ -1,0 +1,8 @@
+"Sample Name"	"Extract Name"	"Assay Name"	"Protocol REF"	"Parameter Value[Chemical Shift]"	"Raw Data File"
+"KNI-272"	"Asp25"	""	"Chemical Shift"	">6.2"	""
+"KNI-272"	"Asp125"	""	"Chemical Shift"	"<2.5"	""
+"KNI-272"	"Asp29"	""	"Chemical Shift"	"3.19"	""
+"KNI-272"	"Asp129"	""	"Chemical Shift"	"3.65"	""
+"KNI-272"	"Asp30"	""	"Chemical Shift"	"3.88"	""
+"KNI-272"	"Asp130"	""	"Chemical Shift"	"3.78"	""
+"KNI-272"	"Asp60 and Asp160"	""	"Chemical Shift"	"2.99"	""

@@ -1,0 +1,2 @@
+"Sample Name"	"Protocol REF"	"Assay Name"	"Extract Name"	"Protocol REF"	"Parameter Value[Experimental Results: pKa]"	"Parameter Value[Derived Experimental Results]"	"Unit"	"Term Source REF"	"Term Accession Number"	"Parameter Value[Derived Experimental Results 2]"	"Unit"	"Term Source REF"	"Term Accession Number"	"Parameter Value[Derived Experimental Results 3]"	"Unit"	"Term Source REF"	"Term Accession Number"
+"wild type"	"titration"	""	"His240"	"NMR spectroscopy"	"6.4"	""	""	""	""	""	""	""	""	""	""	""	""
