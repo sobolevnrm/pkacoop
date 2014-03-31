@@ -1,0 +1,3 @@
+"Source Name"	"Characteristics[organism]"	"Term Source REF"	"Term Accession Number"	"Protocol REF"	"Sample Name"
+""	"apo-form of HasA_SM hemophore"	""	""	""	"apo-HasA_SM"
+""	"holo-form of HasA_SM"	""	""	""	"holo-HasA_SM"
