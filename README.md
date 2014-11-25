@@ -19,8 +19,8 @@ A [special volume](http://onlinelibrary.wiley.com/doi/10.1002/prot.v79.12/issuet
 Contents
 --------
 
-* [Data](data) - Data used by the Cooperative
-* [Presentations](presentations) - Presentations about predictions and other Cooperative-related research
+* [Data](https://github.com/sobolevnrm/pkacoop/tree/master/data) - Data used by the Cooperative
+* [Presentations](https://github.com/sobolevnrm/pkacoop/tree/master/presentations) - Presentations about predictions and other Cooperative-related research
 
 Participants
 ------------
