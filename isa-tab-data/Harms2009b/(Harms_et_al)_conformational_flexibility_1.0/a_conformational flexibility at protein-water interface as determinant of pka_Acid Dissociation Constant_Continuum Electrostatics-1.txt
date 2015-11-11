@@ -1,5 +1,0 @@
-"Sample Name"	"Protocol REF"	"Assay Name"	"Parameter Value[pKa]"	"Comment[Secondary]"	"Parameter Value[dielectric constant]"	"Parameter Value[free energy: dehydration]"	"Parameter Value[free energy: polar]"	"Parameter Value[free energy: coulomb]"	"Extract Name"	"Raw Data File"
-"L38K/E122Q"	"Poisson-Boltzmann Continuum Electrostatic Equations"	"standard finite difference"	"10.4"	"pKa value fixed, apparent dielectric constant solved for"	"28.6"	"-1.2"	"0.1"	"1.0"	""	""
-"L38K/E122Q"	"Poisson-Boltzmann Continuum Electrostatic Equations"	"single-site finite difference"	"10.4"	"pKa value fixed, apparent dielectric constant solved for"	"44.3"	"-0.5"	"-0.8"	"1.2"	""	""
-"L38K/E122Q"	"Poisson-Boltzmann Continuum Electrostatic Equations"	"multiple-conformation continuum electrostatics"	"5.9"	"pKa values calculated using highest available dielectric constant"	"8"	"n/a"	"n/a"	"n/a"	""	""
-"L38K/E122Q"	"Poisson-Boltzmann Continuum Electrostatic Equations"	"PROPKA"	"9.7"	""	"n/a"	"n/a"	"n/a"	"n/a"	""	""
