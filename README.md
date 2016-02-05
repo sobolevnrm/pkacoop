@@ -10,6 +10,8 @@ More information about the pKa Cooperative is provided at <http://pkacoop.org>
 
 ## How to use the configuration and isatab files available in this repository
 1.  Download [ISACreator](http://www.isa-tools.org/software-suite/) for your platform
-2.  Copy the [pKa specific ISAtab configuration directory](https://github.com/sobolevnrm/pkacoop/tree/master/isa-tab-data/isaconfigPChem) to the "Configurations" directory of your ISACreator distribution.
+2.  Copy the [pKa specific ISAtab configuration directory](https://github.com/sobolevnrm/pkacoop/tree/master/isa-tab-data/isaconfigPChem) to the "Configurations" directory of your ISACreator distribution.  Alternatively, you should be able to load this configuration file through the "load another configuration" option inside ISACreator, but I am not able to get this to work.
 3.  Start ISACreator
 4.  Load pKa isatab files:
+  1.  From the ISACreator main menu, select "Load an existing isatab file."
+  2.  Select any one of the isatab directories (e.g. [Assadi-Porter1995](https://github.com/sobolevnrm/pkacoop/tree/master/isa-tab-data/Assadi-Porter1995) from this repository.  This will allow you to view the metadata associated with this author in the overview of the ISACreator Overview window.
