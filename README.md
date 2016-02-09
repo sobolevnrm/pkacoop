@@ -14,4 +14,5 @@ More information about the pKa Cooperative is provided at <http://pkacoop.org>
 3.  Start ISACreator
 4.  Load pKa isatab files:
   1.  From the ISACreator main menu, select "Load an existing isatab file."
-  2.  Select any one of the isatab directories (e.g. [Assadi-Porter1995](https://github.com/sobolevnrm/pkacoop/tree/master/isa-tab-data/Assadi-Porter1995) from this repository.  This will allow you to view the metadata associated with this author in the overview of the ISACreator Overview window.
+  ![ISAcreator Main Menu](https://github.com/sobolevnrm/pkacoop/blob/master/screenshots/ISAcreatorMain.png "Main menu")
+  2.  Select any one of the isatab directories (e.g. [Assadi-Porter1995](https://github.com/sobolevnrm/pkacoop/tree/master/isa-tab-data/Assadi-Porter1995)) from this repository.  This will allow you to view the metadata associated with this author in the overview of the ISACreator Overview window.  ![ISAcreator Overview](https://github.com/sobolevnrm/pkacoop/blob/master/screenshots/ISAcreatorOverview.png)
