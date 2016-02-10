@@ -14,7 +14,7 @@ More information about the pKa Cooperative is provided at <http://pkacoop.org>
 2.  Start ISACreator.  You will prompted to log in or create an account.
 3.  Point to the pkacoop configuration file:
    1.  At this point you will be directed to the configuration loader dialog: ![ISAcreator Configuration](https://github.com/sobolevnrm/pkacoop/blob/master/screenshots/ISAcreatorConfiguration.png "ISA config")
-   2.  Selct "Open Another" and point to the [pKa specific ISAtab configuration directory](https://github.com/sobolevnrm/pkacoop/tree/master/isa-tab-data/isaconfigPChem) file.  Alternatively, you can copy the [pKa specific ISAtab configuration directory](https://github.com/sobolevnrm/pkacoop/tree/master/isa-tab-data/isaconfigPChem) to the "Configurations" directory of your ISACreator distribution.
+   2.  Selct "Open Another" and point to the [pKa specific ISAtab configuration directory](https://github.com/sobolevnrm/pkacoop/tree/master/isaconfigPChem) file.  Alternatively, you can copy the [pKa specific ISAtab configuration directory](https://github.com/sobolevnrm/pkacoop/tree/master/isaconfigPChem) to the "Configurations" directory of your ISACreator distribution.
    3.  The file will load and take you back to the main menu
 4.  Point ISAcreator to the ISAtab files:
    1. Select Settings -> Program File Locations
