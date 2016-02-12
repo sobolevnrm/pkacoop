@@ -5,6 +5,7 @@ More information about the pKa Cooperative is provided at <http://pkacoop.org>
 ## Contents
 
 * [isa-tab-data](isa-tab-data) - ISA-Tab formatted version of published datasets.
+* [isaconfigPChem](https://github.com/sobolevnrm/pkacoop/tree/master/isaconfigPChem) - ISA configuration files.
 * [old-data](old-data) - Data from past pKa Cooperative prediction challenges.
 * [presentations](presentations) - Presentations from past pKa Cooperative meetings.
 
@@ -14,10 +15,10 @@ More information about the pKa Cooperative is provided at <http://pkacoop.org>
 2.  Start ISACreator.  You will prompted to log in or create an account.
 3.  Point to the pkacoop configuration file:
    1.  At this point you will be directed to the configuration loader dialog: ![ISAcreator Configuration](https://github.com/sobolevnrm/pkacoop/blob/master/screenshots/ISAcreatorConfiguration.png "ISA config")
-   2.  Selct "Open Another" and point to the [pKa specific ISAtab configuration directory](https://github.com/sobolevnrm/pkacoop/tree/master/isaconfigPChem) file.  Alternatively, you can copy the [pKa specific ISAtab configuration directory](https://github.com/sobolevnrm/pkacoop/tree/master/isaconfigPChem) to the "Configurations" directory of your ISACreator distribution.
+   2.  Selct "Open Another" and select the [pKa specific ISAtab configuration directory](https://github.com/sobolevnrm/pkacoop/tree/master/isaconfigPChem) file from your cloned repository.  Alternatively, you can copy the [pKa specific ISAtab configuration directory](https://github.com/sobolevnrm/pkacoop/tree/master/isaconfigPChem) to the "Configurations" directory of your ISACreator distribution.
    3.  The file will load and take you back to the main menu
 4.  Point ISAcreator to the ISAtab files:
-   1. Select Settings -> Program File Locations
+   1. Select "Settings" -> "Program File Locations"
    2. Point "ISAtab Location" to the directory containing the [pKa specific ISAtab Files](https://github.com/sobolevnrm/pkacoop/tree/master/isa-tab-data).
    3. Select "back" to return to the main menu
 5.  Load pKa isatab files:
