@@ -1,17 +1,18 @@
 ONTOLOGY SOURCE REFERENCE
-Term Source Name	"NCI"	""	"e.g. OBI"	"OBI"	
-Term Source File	""	""	""	""	
-Term Source Version	""	""	""	""	
-Term Source Description	""	""	""	""	
+Term Source Name
+Term Source File
+Term Source Version
+Term Source Description
 INVESTIGATION
-Investigation Identifier	""
+Investigation Identifier	"1463596759606"
 Investigation Title	"Investigation"
 Investigation Description	""
 Investigation Submission Date	""
 Investigation Public Release Date	""
 Comment [Created with configuration]	""
-Comment [Last Opened With Configuration]	"isaconfigPChem1.8"
-Comment [Created With Configuration]	"C:\Users\john843\Documents\ISA-Tab\isaconfigPChem1.8\isaconfigPChem1.8"
+Comment [Last Opened With Configuration]	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	"isaconfigPChem1.8"
 INVESTIGATION PUBLICATIONS
 Investigation PubMed ID	""
 Investigation Publication DOI	""
@@ -35,7 +36,9 @@ Investigation Person Roles Term Source REF	""
 STUDY
 Study Identifier	"(bartik)turkey_hen_lysozymes"
 Study Title	"Measurement of the Individual pKa Values of Acidic Residues of Hen and Turkey Lysozymes by Two-Dimensional 1H NMR"
-Study Description	"The pH dependence of the two-dimensional 1 H nuclear magnetic resonance spectra of hen and turkey egg-white lysozymes has been recorded over the pH range 1-7. By monitoring the chemical shifts of the resonances of the various protons of ionizable residues, individual pKa values for the acidic residues have been determined for both proteins. The pKa values are displaced, with the exception of those of the residues in the active site cleft, by an average of 1 unit to low pH compared to model compounds."
+Study Description	"The pH dependence of the two-dimensional 1 H nuclear magnetic resonance spectra of hen and turkey egg-white lysozymes has been recorded over the pH range 1-7. By monitoring the chemical shifts of the resonances of the various protons of ionizable residues, individual pKa values for the acidic residues have been determined for both proteins. The pKa values are displaced, with the exception of those of the residues in the active site cleft, by an average of 1 unit to low pH compared to model compounds.
+
+Upper limits are given for the pKa values of Asp48 and Asp66 because an insufficient number of chemical shift values were obtained at low pH. The pKa values given in parentheses are the values obtained from the fitting program; the large standard deviations arise because of the lack of low pH data."
 Study Submission Date	"1993-10-28"
 Study Public Release Date	"1994-01-03"
 Study File Name	"s_(bartik)turkey_hen_lysozymes.txt"
@@ -57,13 +60,13 @@ Study Factor Type	""
 Study Factor Type Term Accession Number	""
 Study Factor Type Term Source REF	""
 STUDY ASSAYS
-Study Assay File Name	"a_(bartik)turkey_hen_lysozymes_Chemical Shift_NMR Spectroscopy-2.txt"	"a_(bartik)turkey_hen_lysozymes_Acid Dissociation Constant_NMR Spectroscopy.txt"	"a_(bartik)turkey_hen_lysozymes_Chemical Shift_NMR Spectroscopy-1.txt"	"a_(bartik)turkey_hen_lysozymes_Chemical Shift_NMR Spectroscopy-3.txt"	"a_(bartik)turkey_hen_lysozymes_Acid Dissociation Constant_NMR Spectroscopy-1.txt"	"a_(bartik)turkey_hen_lysozymes_Chemical Shift_NMR Spectroscopy.txt"
-Study Assay Measurement Type	"Chemical Shift"	"Acid Dissociation Constant"	"Chemical Shift"	"Chemical Shift"	"Acid Dissociation Constant"	"Chemical Shift"
-Study Assay Measurement Type Term Accession Number	""	"C"	""	""	"C"	""
-Study Assay Measurement Type Term Source REF	""	"NCI"	""	""	"NCI"	""
+Study Assay File Name	"a_(bartik)turkey_hen_lysozymes_Chemical Shift_NMR Spectroscopy-2.txt"	"a_(bartik)turkey_hen_lysozymes_Chemical Shift_NMR Spectroscopy-3.txt"	"a_(bartik)turkey_hen_lysozymes_Chemical Shift_NMR Spectroscopy-1.txt"	"a_(bartik)turkey_hen_lysozymes_Chemical Shift_NMR Spectroscopy.txt"	"a_(bartik)turkey_hen_lysozymes_Acid Dissociation Constant_NMR Spectroscopy-1.txt"	"a_(bartik)turkey_hen_lysozymes_Acid Dissociation Constant_NMR Spectroscopy.txt"
+Study Assay Measurement Type	"Chemical Shift"	"Chemical Shift"	"Chemical Shift"	"Chemical Shift"	"Acid Dissociation Constant"	"Acid Dissociation Constant"
+Study Assay Measurement Type Term Accession Number	""	""	""	""	"C"	"C"
+Study Assay Measurement Type Term Source REF	""	""	""	""	"NCI"	"NCI"
 Study Assay Technology Type	"NMR Spectroscopy"	"NMR Spectroscopy"	"NMR Spectroscopy"	"NMR Spectroscopy"	"NMR Spectroscopy"	"NMR Spectroscopy"
-Study Assay Technology Type Term Accession Number	""	"C16921"	""	""	"C16921"	""
-Study Assay Technology Type Term Source REF	""	"NCI"	""	""	"NCI"	""
+Study Assay Technology Type Term Accession Number	""	""	""	""	"C16921"	"C16921"
+Study Assay Technology Type Term Source REF	""	""	""	""	"NCI"	"NCI"
 Study Assay Technology Platform	""	""	""	""	""	""
 STUDY PROTOCOLS
 Study Protocol Name	"sample collection"	"Chemical Shift"	"titration"	"NMR spectroscopy"
